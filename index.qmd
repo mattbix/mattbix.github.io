@@ -3,7 +3,7 @@ title: "Home"
 subtitle: "Welcome to my research notes."
 ---
 
-[GitHub repositories](https://github.com/mattbix){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+[GitHub](https://github.com/mattbix){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 
 ## Recent updates
 
