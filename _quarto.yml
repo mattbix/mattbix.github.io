@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: .
+  execute-dir: project
+
+website:
+  title: "Research & Code — Matthew Bernard"
+  site-url: "https://mattbix.github.io/thesis-notes/"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Home"
+        href: "https://mattbix.github.io"
+      - section: "Thesis notes"
+        contents:
+          - text: "TRS spectrum (2026-11-03)"
+            href: 2026-11-03-trs.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-summary: "Show code"
+    html-math-method: mathjax
+    fig-cap-location: bottom
+    embed-resources: false
+
+execute:
+  freeze: true

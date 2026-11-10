@@ -1,0 +1,18 @@
+# Local Quarto state and execution cache
+.quarto/
+.jupyter_cache/
+
+# macOS files
+.DS_Store
+
+# Temporary LaTeX files
+*.log
+*.aux
+*.toc
+*.tex
+
+# Temporary Jupyter notebooks
+*.quarto_ipynb*
+
+/.quarto/
+**/*.quarto_ipynb
