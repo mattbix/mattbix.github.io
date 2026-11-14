@@ -1,8 +1,8 @@
 ---
-title: "Research & Code — Matthew Bernard"
+title: "Home"
 ---
 
-Notes and code for my MA thesis in Statistics and Data Science at UC Berkeley, advised by Professor Steven Evans.
+Welcome to my research notes.
 
 [GitHub](https://github.com/matthew-bernard){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 
@@ -10,6 +10,6 @@ Notes and code for my MA thesis in Statistics and Data Science at UC Berkeley, a
 
 ### 2026-11-03
 
-[Analysis of Two-Coloured Top-to-Random Shuffles](2026-11-03-trs.html)
+[Spectral Degeneracies of a Topmost-to-Random Shuffle on Balanced Binary Words](2026-11-03-trs.html)
 
 A note based on discussions with Professor Steven N. Evans, 2026-11-03.
