@@ -11,7 +11,7 @@ Notes and code for my MA thesis in Statistics and Data Science at UC Berkeley, a
 
 ## Live site
 
-https://mattbix.github.io/thesis-notes/
+https://matthew-bernard.github.io/
 
 ## Build
 
@@ -26,7 +26,7 @@ This produces `index.html`, `2026-11-03-trs.html`, and `2026-11-03-trs_files/` i
     git init -b main
     git add .
     git commit -m "Initial commit: TRS spectrum note"
-    git remote add origin https://github.com/mattbix/thesis-notes.git
+    git remote add origin https://github.com/matthew-bernard/matthew-bernard.github.io.git
     git push -u origin main
 
 Then in the GitHub repository: Settings -> Pages -> Source: Deploy from a branch -> Branch: main, folder: / (root) -> Save.

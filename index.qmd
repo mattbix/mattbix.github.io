@@ -1,12 +1,21 @@
 ---
-title: "Home"
-subtitle: "Welcome to my research notes."
+title: "Research & Code — Matthew Bernard"
 ---
 
-[GitHub](https://github.com/mattbix){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+Notes and code for my MA thesis in Statistics and Data Science at UC Berkeley, advised by Professor Steven Evans.
+
+[GitHub](https://github.com/matthew-bernard){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
 
 ## Recent updates
 
-[Spectral Degeneracies of a Topmost-to-Random Shuffle on Balanced Binary Words](2026-11-03-trs.html)
+### 2026-11-10
 
-*A note based on discussions with Professor Steven N. Evans, 2026-11-03*
+[The Spectrum Of The Top-To-Random Chain On Two-Coloured Words](2026-11-10-trs.html)
+
+A note based on discussions with Professor Steven N. Evans, 2026-11-10.
+
+### 2026-11-03
+
+[Analysis of Two-Coloured Top-to-Random Shuffles](2026-11-03-trs.html)
+
+A note based on discussions with Professor Steven N. Evans, 2026-11-03.

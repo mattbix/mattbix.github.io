@@ -5,17 +5,19 @@ project:
 
 website:
   title: "Research & Code — Matthew Bernard"
-  site-url: "https://mattbix.github.io/thesis-notes/"
+  site-url: "https://matthew-bernard.github.io/"
   sidebar:
     style: "docked"
     search: true
     contents:
       - text: "Home"
-        href: "https://mattbix.github.io"
+        href: "https://matthew-bernard.github.io"
       - section: "Thesis notes"
         contents:
           - text: "TRS spectrum (2026-11-03)"
-            href: 2026-11-03-trs.qmd
+            href: 2026-11-03-trs/2026-11-03-trs.qmd
+          - text: "TRS spectrum (2026-11-10)"
+            href: 2026-11-10-trs/2026-11-10-trs.qmd
 
 format:
   html:
