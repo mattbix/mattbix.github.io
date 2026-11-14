@@ -16,8 +16,6 @@ website:
         contents:
           - text: "TRS spectrum (2026-11-03)"
             href: 2026-11-03-trs/2026-11-03-trs.qmd
-          - text: "TRS spectrum (2026-11-10)"
-            href: 2026-11-10-trs/2026-11-10-trs.qmd
 
 format:
   html:
